@@ -1,7 +1,7 @@
-# Ziyi Zhang, CSW8 (F21)
+# Ziyi Zhang
 
 
-from CSW8_finalproject import *
+from grade_calculator import *
 
 
 
