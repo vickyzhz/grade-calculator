@@ -1,4 +1,4 @@
-# Ziyi Zhang, CSW8 (F21)
+# Ziyi Zhang
 
 
 # the function for user to start this system
